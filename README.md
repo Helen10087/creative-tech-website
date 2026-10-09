@@ -39,3 +39,9 @@ If you want a local server:
 - About: update the text under `#about`.
 - Process: edit the ordered list under `#process`.
 - Contact: update the email and social links under `#contact`.
+
+
+Helen New Website
+
+homepage: brainstorm moodboard
+
